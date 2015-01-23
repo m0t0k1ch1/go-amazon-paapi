@@ -15,7 +15,7 @@ import (
 )
 
 func main() {
-	c := goamazonpaapi.NewClient(
+	c := paapi.NewClient(
 		"your access key",
 		"your secret access key",
 		"your associate tag",

@@ -1,4 +1,4 @@
-package goamazonpaapi
+package paapi
 
 import (
 	"crypto/hmac"

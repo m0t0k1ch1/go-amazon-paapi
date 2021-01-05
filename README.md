@@ -1,7 +1,7 @@
 go-amazon-paapi
 ===============
 
-Amazon PAAPI client for golang
+Amazon PAAPI client for Go
 
 ## Example
 
